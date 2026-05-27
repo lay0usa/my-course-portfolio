@@ -1,7 +1,7 @@
 # My Course Portfolio
-## Partenr
-- Layousa
-- Zarlasht
+## Partners
+- Layousa Farahi
+- Zarlasht Najimzada
 
 Welcome to my academic portfolio for CPP course!
 
