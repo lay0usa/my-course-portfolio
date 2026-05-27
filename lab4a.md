@@ -11,6 +11,13 @@ Here are three things I enjoy doing:
 - Going out with friends
 
 ---
+Hello, Iam **Zarlasht Najimzada**
+my favorite hobby is* cooking*
+three things i like
+
+-reading book 
+- watching movie
+- walking in nature
 
 # Pancake Recipe
 
