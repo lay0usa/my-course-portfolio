@@ -7,7 +7,7 @@ Welcome to my academic portfolio for CPP course!
 
 ## About Me
 
-- Name: Layousa Farahi
+- Name: Layousa Farahi/Zarlasht Najimzada
 - Major: Computer Programming and Analysis
 - Year: First Year
 - Favorite Programming Language: C
