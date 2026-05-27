@@ -1,4 +1,7 @@
 # My Course Portfolio
+## Partenr
+- Layousa
+- Zarlasht
 
 Welcome to my academic portfolio for CPP course!
 
